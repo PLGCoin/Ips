@@ -4,7 +4,7 @@ Shell script to install a [Ips Masternode](https://ipsum.im/) on a Linux server 
 
 ## VPS installation
 ```
-wget -q https://raw.githubusercontent.com/zoldur/Ips/master/ips_install.sh
+wget -q https://raw.githubusercontent.com/PLGCoin/Ips/patch-1/ips_install.sh
 bash ips_install.sh
 ```
 ***

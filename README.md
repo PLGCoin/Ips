@@ -61,6 +61,7 @@ systemctl is-enabled Ips #To check if Cubis service is enabled on boot
 
 Any donation is highly appreciated
 
-**BTC**: 3MQLEcHXVvxpmwbB811qiC1c6g21ZKa7Jh  
-**ETH**: 0x26B9dDa0616FE0759273D651e77Fe7dd7751E01E  
-**LTC**: LNZpK4rCd1JVSB3rGKTAnTkudV9So9zexB  
+**BTC**: 3KShHHwv4KJboBAGKQNbQzEhL8uvFcXRwA  
+**ETH**: 0x5Ec79a5f8D1aC11a748fC847078249a08b68c38F  
+**LTC**: LXWNb37gqpGKT5rLeC8YHirESsrguuY3DU  
+**IPS**: idWuCHYNFs2aBCJJhZbqTGp2SmT8TMryRE
